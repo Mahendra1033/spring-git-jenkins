@@ -15,7 +15,6 @@ class SpringGitJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("The Test Case has been executed ... ");
-		logger.info("The Second Test Case has been Started and excecuted as well  ... ");
 		assertEquals(true, true);
 	}
 
