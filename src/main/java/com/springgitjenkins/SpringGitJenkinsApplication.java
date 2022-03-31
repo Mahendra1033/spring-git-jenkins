@@ -15,6 +15,7 @@ public class SpringGitJenkinsApplication {
 	@PostConstruct
 	public void init() {
 		logger.info("The Application has been started !!! ");
+		logger.info("The Application has been started Again and Again !!! ");
 	}
 	
 	public static void main(String[] args) {
